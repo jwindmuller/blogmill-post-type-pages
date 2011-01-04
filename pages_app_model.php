@@ -1,6 +1,6 @@
 <?php
 
-class pagesAppModel extends AppModel {
+class PagesAppModel extends AppModel {
 
 }
 

@@ -17,6 +17,5 @@
 				'comments' => false
 			)
 		);
-		
 	}
 	
