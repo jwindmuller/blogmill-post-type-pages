@@ -25,9 +25,9 @@ class Page extends PagesAppModel {
 	 * @author Joaquin Windmuller
 	 */
 	protected function __initializeValidation() {
-		$this->defineErrorMessage('title.required', __('Please write a title for this page', true));
-		$this->defineErrorMessage('title.maxLength', __('Maximum length is 255 character', true));
-		$this->defineErrorMessage('content.required', __('Write a content for this page', true));
+		$this->defineErrorMessage('title.required', __d('pages','Please write a title for this page', true));
+		$this->defineErrorMessage('title.maxLength', __d('pages','Maximum length is 255 character', true));
+		$this->defineErrorMessage('content.required', __d('pages','Write a content for this page', true));
 	}
 
 }

@@ -1,0 +1,43 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-05-23 19:54+0000\n"
+"PO-Revision-Date: 2011-05-23 14:10-0700\n"
+"Last-Translator: Joaquin Windmuller <joaquin@windmuller.ca>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /plugins/pages/config/settings.php:8
+msgid "Page"
+msgstr "Página"
+
+#: /plugins/pages/config/settings.php:12
+msgid "Title"
+msgstr "Título"
+
+#: /plugins/pages/config/settings.php:16
+msgid "Content"
+msgstr "Contenido"
+
+#: /plugins/pages/models/page.php:28
+msgid "Please write a title for this page"
+msgstr "Por favor escribe un título para esta página"
+
+#: /plugins/pages/models/page.php:29
+msgid "Maximum length is 255 character"
+msgstr "El máximo número de caracteres es 255"
+
+#: /plugins/pages/models/page.php:30
+msgid "Write a content for this page"
+msgstr "Escribe el contenido para esta página"
+
+#: /plugins/pages/views/elements/page/view.ctp:4
+msgid "Last modified:"
+msgstr "Modificado:"
+

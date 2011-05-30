@@ -1,5 +1,4 @@
 <?php
-// echo $this->Blogmill->postLink($post);
 echo $this->Html->link(
 	'jsdkfjbsdjfksbfjbsdkfbksjdåo',
 	array(
@@ -10,5 +9,4 @@ echo $this->Html->link(
 		'type' => 'Pages.Page'
 	)
 );
-// debug($post);
 ?>
