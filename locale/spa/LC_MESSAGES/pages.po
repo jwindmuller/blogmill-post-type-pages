@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2011-05-23 19:54+0000\n"
-"PO-Revision-Date: 2011-05-23 14:10-0700\n"
+"POT-Creation-Date: 2012-03-30 15:20+0000\n"
+"PO-Revision-Date: 2012-03-30 09:28-0700\n"
 "Last-Translator: Joaquin Windmuller <joaquin@windmuller.ca>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
 "MIME-Version: 1.0\n"
@@ -17,11 +17,15 @@ msgstr ""
 msgid "Page"
 msgstr "Página"
 
-#: /plugins/pages/config/settings.php:12
+#: /plugins/pages/config/settings.php:9
+msgid "Pages"
+msgstr "Páginas"
+
+#: /plugins/pages/config/settings.php:13
 msgid "Title"
 msgstr "Título"
 
-#: /plugins/pages/config/settings.php:16
+#: /plugins/pages/config/settings.php:17
 msgid "Content"
 msgstr "Contenido"
 

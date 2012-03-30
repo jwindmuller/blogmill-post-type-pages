@@ -6,6 +6,7 @@
             $this->types = array(
                 'Page' => array(
                     'name' => __d('pages', 'Page', true),
+                    'name_plural' => __d('pages', 'Pages', true),
     				'fields' => array(
 	    				'title' => array(
                             'type' => 'text',

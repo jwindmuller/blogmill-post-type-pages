@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2011-05-23 19:54+0000\n"
+"POT-Creation-Date: 2012-03-30 15:20+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -18,11 +18,15 @@ msgstr ""
 msgid "Page"
 msgstr ""
 
-#: /plugins/pages/config/settings.php:12
+#: /plugins/pages/config/settings.php:9
+msgid "Pages"
+msgstr ""
+
+#: /plugins/pages/config/settings.php:13
 msgid "Title"
 msgstr ""
 
-#: /plugins/pages/config/settings.php:16
+#: /plugins/pages/config/settings.php:17
 msgid "Content"
 msgstr ""
 
